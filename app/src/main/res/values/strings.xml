@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">HomeWork2</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_have_an_account_register">Don\' have an account? Register</string>
+    <string name="my_todo" translatable="false">My ToDo</string>
+    <string name="login">login</string>
+</resources>

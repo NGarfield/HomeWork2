@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="don_have_an_account_register">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+    <string name="email">อีเมล</string>
+    <string name="login">ลงทะเบียน</string>
+    <string name="login_to_your_account">ลงทะเบียนเข้าสู่บัญชีของคุณ</string>
+    <string name="password">รหัสผ่าน</string>
+</resources>
