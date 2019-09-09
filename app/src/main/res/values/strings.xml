@@ -6,4 +6,8 @@
     <string name="don_have_an_account_register">Don\' have an account? Register</string>
     <string name="my_todo" translatable="false">My ToDo</string>
     <string name="login">login</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Invaild email or password</string>
+    <string name="remember_password">remember password</string>
+
 </resources>

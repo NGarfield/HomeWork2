@@ -6,4 +6,7 @@
     <string name="login">ลงทะเบียน</string>
     <string name="login_to_your_account">ลงทะเบียนเข้าสู่บัญชีของคุณ</string>
     <string name="password">รหัสผ่าน</string>
+    <string name="login_failed">อีเมลหรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="login_success">เข้าสู่ระบบสำเร็จ</string>
+    <string name="remember_password">จดจำรหัสผ่าน</string>
 </resources>
